@@ -1,6 +1,6 @@
 Classified-webapp
 =================
-MY FIRST JOB-Volunteer 
+MY FIRST JOB 
 
 My client requested a classified webapp with most of the features necessary for users to create an account and upload their items for display. The webapp was developed using Bootstrap along with HTML5 for front end, a PHP framwork and jquery. 
  If you wish for further details please contact me. This website should be launching soon if things go to plan. Please go here to see what the webapp looks like at MARKETVILLAGE.org.
